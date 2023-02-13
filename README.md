@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Priyam Aneja 
 #### Full Stack Developer and UI/UX Designer
-I'm Priyam Aneja from India, and I am a Full Stack Web Developer (MERN Stack). I really enjoy learning new technologies and frameworks. I am also interested in UI/UX design.
+I'm Priyam Aneja from India a Full Stack Web Developer (MERN Stack). I really enjoy learning new technologies and frameworks. I am also interested in UI/UX design.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_priyam_aneja_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyamaneja) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PriyamAneja) 
