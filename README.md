@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  />
+</div>
+
+###
+
 ### Hi there 👋, I'm Priyam Aneja 
 #### Full Stack Developer and UI/UX Designer
 I'm a Full Stack Web Developer (MERN Stack). I really enjoy learning new technologies and frameworks. I am also interested in UI/UX design.
