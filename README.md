@@ -1,4 +1,4 @@
-(https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)
+![github]((https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif))
 ### Hi there 👋, I'm Priyam Aneja 
 #### Full Stack Developer and UI/UX Designer
 I'm a Full Stack Web Developer (MERN Stack). I really enjoy learning new technologies and frameworks. I am also interested in UI/UX design.
