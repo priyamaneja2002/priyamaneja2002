@@ -13,7 +13,6 @@
 <h1 align="center">Hi 👋, I'm Priyam Aneja</h1>
 <h3 align="center">Full Stack Web Developer | Learning new things everyday ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyamaneja2002&label=Profile%20views&color=0e75b6&style=flat" alt="priyamaneja2002" /> </p>
 
 - 🔭 I’m currently working on **Front-end projects**
 
