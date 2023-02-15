@@ -14,9 +14,6 @@
 <h3 align="center">Full Stack Web Developer | Learning new things everyday ✨</h3>
 
 
-- 🔭 I’m currently working on **Front-end projects**
-
-- 🌱 I’m currently learning **React.js, Next.js and TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
