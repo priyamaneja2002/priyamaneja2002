@@ -29,16 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamaneja2002&" alt="priyamaneja2002" /></p>
 
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=priyamaneja2002&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
