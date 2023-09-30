@@ -2,7 +2,7 @@
   <img height="200" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm <a href='' target='_blank'>Priyam Aneja</a> </h1>
+<h1 align="center">Hi, I'm <a href='' target='_blank'>Priyam Aneja</a> </h1>
 <h3 align="center">Full Stack Web Developer | Learning new things everyday ✨</h3>
 
 I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **JavaScript** & **C++**. I'm intrested in expanding my knowledge in fields of **Blockchain**. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in **Hackathons** and win them. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology. If you have any doubts or want to discuss regarding hackathons, projects or anything regarding my domain I'll be very happy to help you out.
