@@ -21,8 +21,7 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 
 - 🎓 Pursuing **B.Tech.** in **Computer Science Engineering** from **[Vellore Institute of Technology, Bhopal](https://vit.ac.in/).**
 - 🔭 I’m currently working as **Full Stack Developer**
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-- 👯 I’m looking to collaborate on **new projects.**
+- 👯 Looking to collaborate on **new projects.**
 - 📫 How to reach me **[Mail Here](mailto:priyamaneja2002@gmail.com)**
 
 <hr/>
