@@ -23,7 +23,6 @@ I'm a **developer** with a demonstrated ability to deliver solutions to real-wor
 - 🔭 I’m currently working as **Full Stack Developer**
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **new projects.**
-- 🤝 I’m looking for help with **resources to learn Blockchain.**
 - 📫 How to reach me **[Mail Here](mailto:priyamaneja2002@gmail.com)**
 
 <hr/>
