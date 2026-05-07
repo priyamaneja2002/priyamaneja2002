@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <a href='' target='_blank'>Priyam Aneja</a> </h1>
 <h3 align="center">Full Stack Web Developer | Learning new things everyday ✨</h3>
 
-I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **JavaScript** & **C++**. I'm intrested in expanding my knowledge in fields of **Blockchain**. I'm a fast learner, actively engaged in learning multiple domains. I love to take part in **Hackathons** and win them. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology. If you have any doubts or want to discuss regarding hackathons, projects or anything regarding my domain I'll be very happy to help you out.
+I'm a **developer** with a demonstrated ability to deliver solutions to real-world problems. I'm skilled in **Full Stack Web Development**. I like learning new things I'm enthusiastic and a curious person. I mainly code in **JavaScript** & **C++**. I'm intrested in expanding my knowledge in fields of **Blockchain**. I'm a fast learner, actively engaged in learning multiple domains. I'm open to collaborate on projects and be the part of communities that empower individuals to learn technology. If you have any doubts or want to discuss regarding projects or anything regarding my domain I'll be very happy to help you out.
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PriyamAneja?label=Follow)](https://twitter.com/PriyamAneja)
