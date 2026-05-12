@@ -7,7 +7,7 @@
 
 I'm a **Design Engineer** and **Frontend Developer** specializing in bridging high-fidelity Figma designs with production-grade code. My focus is on building immersive, interactive, and high-performance user interfaces. I have a strong passion for motion design, seamless "Design-to-Code" workflows, and leveraging AI to push the boundaries of web development. 
 
-I previously worked as a Web Developer at Incipio Technologies, where I built storefront interfaces for e-commerce brands like LoveInFaith and GodsLoveOvercomes. Currently, I am actively exploring remote opportunities to build world-class digital experiences for the global market. 
+I previously worked as a Web Developer at Incipio Technologies, where I built storefront interfaces for e-commerce brands like LiF and GLO. Currently, I am actively exploring remote opportunities to build world-class digital experiences for the global market. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PriyamAneja?label=Follow)](https://twitter.com/PriyamAneja)
 [![GitHub Follow](https://img.shields.io/github/followers/priyamaneja2002?label=Follow&style=social)](https://github.com/priyamaneja2002)
@@ -18,9 +18,9 @@ I previously worked as a Web Developer at Incipio Technologies, where I built st
 ![Visitors](https://komarev.com/ghpvc/?username=priyamaneja2002&color=blue&style=badge&label=Visitors)
 
 * 🎓 **Education:** B.Tech. in Computer Science Engineering (AI & ML) from **[Vellore Institute of Technology, Bhopal](https://vit.ac.in/)** (Class of 2024).
-* 🚀 **Focus:** Specializing in **React, Next.js, Framer Motion, Figma**.
+* 🚀 **Focus:** Specializing in **React, Next.js, Framer Motion, GSAP, and Three.js**.
 * 🤖 **Workflow:** Building faster and smarter using AI-assisted IDEs like **Cursor, GitHub Copilot, and ChatGPT**.
-* 🌍 **Currently:** Seeking remote Design Engineering and UI/UX roles in the Indian, US and European tech markets.
+* 🌍 **Currently:** Seeking remote Design Engineering and UI/UX roles in the US and European tech markets.
 * 📫 **Reach me at:** **[priyamaneja2002@gmail.com](mailto:priyamaneja2002@gmail.com)**
 
 <hr/>
@@ -54,8 +54,8 @@ I previously worked as a Web Developer at Incipio Technologies, where I built st
   <summary><b>💻 Recent Projects</b></summary>
   <br>
   
+  * **Interview AI:** Developed an AI-powered platform leveraging modern frontend and artificial intelligence technologies to help prepare for the interview process.
   * **Grow Fitness Platform:** Orchestrated the full project lifecycle, translating custom high-fidelity Figma designs into a live, production-ready Next.js application.
-  * **Apple Landing Page Clone:** Engineered an immersive web experience utilizing React.js, GSAP for scroll animations, and Three.js for 3D model rendering.
 </details>
 
 <details>
