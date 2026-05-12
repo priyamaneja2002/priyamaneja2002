@@ -18,9 +18,9 @@ I previously worked as a Web Developer at Incipio Technologies, where I built st
 ![Visitors](https://komarev.com/ghpvc/?username=priyamaneja2002&color=blue&style=badge&label=Visitors)
 
 * 🎓 **Education:** B.Tech. in Computer Science Engineering (AI & ML) from **[Vellore Institute of Technology, Bhopal](https://vit.ac.in/)** (Class of 2024).
-* 🚀 **Focus:** Specializing in **React, Next.js, Framer Motion, GSAP, and Three.js**.
+* 🚀 **Focus:** Specializing in **React, Next.js, Framer Motion, and Figma**.
 * 🤖 **Workflow:** Building faster and smarter using AI-assisted IDEs like **Cursor, GitHub Copilot, and ChatGPT**.
-* 🌍 **Currently:** Seeking remote Design Engineering and UI/UX roles in the US and European tech markets.
+* 🌍 **Currently:** Seeking remote Design Engineering and UI/UX roles in the Indian, US and European tech markets.
 * 📫 **Reach me at:** **[priyamaneja2002@gmail.com](mailto:priyamaneja2002@gmail.com)**
 
 <hr/>
@@ -33,7 +33,6 @@ I previously worked as a Web Developer at Incipio Technologies, where I built st
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=badge&logo=figma&logoColor=white)
   ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=badge&logo=framer&logoColor=blue)
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=badge&logo=greensock&logoColor=white)
-  ![Three.js](https://img.shields.io/badge/Three.js-black?style=badge&logo=three.js&logoColor=white)
 
   ### 💻 **Frontend & Core Tech**
   ![React.js](https://img.shields.io/badge/React.js-20232A?style=badge&logo=react&logoColor=61DAFB)
